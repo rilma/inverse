@@ -1,7 +1,5 @@
 %
-% CORNELL UNIVERSITY            EAS 5840: Inverse Methods
-% HOMEWORK: 4                   PROBLEM: 4
-% AUTHOR: RONALD R. ILMA        DATE: Oct 27, 2008
+% AUTHOR: RONALD R. ILMA
 %
 % Program to simulate a CAT inversion of an image
 %
