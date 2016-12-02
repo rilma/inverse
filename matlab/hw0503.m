@@ -1,7 +1,5 @@
 %
-% CORNELL UNIVERSITY            EAS 5840: Inverse Methods
-% HOMEWORK: 5                   PROBLEM: 3
-% AUTHOR: RONALD R. ILMA        DATE: Nov 07, 2008
+% AUTHOR: RONALD R. ILMA
 %
 % Application of the Conjugate Gradient Least-Squares (CGLS) technique for
 % image deblurring
