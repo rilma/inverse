@@ -1,7 +1,5 @@
 %
-% CORNELL UNIVERSITY            EAS 5840: Inverse Methods
-% HOMEWORK: 2                   PROBLEM: 3
-% AUTHOR: RONALD R. ILMA        DATE: Sept 26, 2008
+% AUTHOR: RONALD R. ILMA
 %
 % Program to investigate the vertical seismic profiling (VSP)
 % of the bore hole (based on Homework 1 - Problem 4.0, and
