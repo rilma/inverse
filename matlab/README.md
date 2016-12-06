@@ -1,19 +1,19 @@
 # INVERSE PROBLEMS
 
-Development in [MATLAB] (https://github.com/rilma/inverse/tree/master/matlab)
+1. Development in [MATLAB] (https://github.com/rilma/inverse/tree/master/matlab)
 
-1. Vertical seismic [profiling] (hw0203.m) (VSP).
+  1. Vertical seismic profiling ([VSP] (hw0203.m)).
 
-![alt tag] (figures/hw0203.png)
+  ![alt tag] (figures/hw0203.png)
 
-2. VSP problem solved with Singular Value Decomposition (SVD) method.
+  2. VSP [problem] (hw0304.m) solved with [Singular Value Decomposition] (calc_svd_model.m) (SVD) method.
 
-![alt tag] (figures/hw0304.png)
+  ![alt tag] (figures/hw0304.png)
 
-3. Simulation of CAT inversion of an image.
+  3. Simulation of [CAT inversion] (hw0404.m) of an image.
 
-![alt tag] (figures/hw0404.png)
+  ![alt tag] (figures/hw0404.png)
 
-4. Deblurring an image using the conjugate gradient method.
+  4. [Deblurring] (hw0503.m) an image using the conjugate gradient method.
 
-![alt tag] (figures/hw0504.png)
+  ![alt tag] (figures/hw0503.png)
