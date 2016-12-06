@@ -1,6 +1,6 @@
 # INVERSE PROBLEMS
 
-1. Development in [MATLAB] (https://github.com/rilma/inverse/tree/master/matlab)
+A) Development in [MATLAB] (https://github.com/rilma/inverse/tree/master/matlab)
 
   1. Vertical seismic profiling ([VSP] (hw0203.m)).
 
